@@ -23,6 +23,10 @@ SpotIt is a location-based search application that allows users to find nearby s
 
 ## Project Structure
 
+\`\`\`
+(Content of project_tree.txt will go here)
+\`\`\`
+
 ## Getting Started
 
 To run the SpotIt application locally, follow these steps:

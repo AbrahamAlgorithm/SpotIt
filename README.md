@@ -1,5 +1,7 @@
 # SpotIt
 
+I'm currently finalizing SpotIt, my final project and portfolio project for ALX - Holberton School of Software Engineering. It's a fantastic opportunity to apply everything I'm learning, especially Python and its Flask framework.
+
 SpotIt is a location-based search application that allows users to find nearby stores selling the products they desire. Built with Python (Flask) for the backend and HTML, CSS, and JavaScript for the frontend, SpotIt aims to bridge the gap between online product discovery and offline in-store purchases.
 
 ## Features
@@ -20,37 +22,6 @@ SpotIt is a location-based search application that allows users to find nearby s
 - **Infrastructure**: Version control (Git), deployment platform (e.g., Heroku, AWS), development tools (VS Code, Ubuntu)
 
 ## Project Structure
-
-The project follows a specific folder structure to maintain a clean and organized codebase:
-
-spotit/
-├── app/
-│   ├── init.py
-│   ├── routes.py
-│   ├── models.py
-│   └── ...
-├── static/
-│   ├── css/
-│   │   └── styles.css
-│   ├── js/
-│   │   └── main.js
-│   └── ...
-├── templates/
-│   ├── base.html
-│   ├── index.html
-│   ├── search_results.html
-│   └── ...
-├── tests/
-│   ├── init.py
-│   ├── test_routes.py
-│   ├── test_models.py
-│   └── ...
-├── .gitignore
-├── config.py
-├── requirements.txt
-└── run.py
-
-This structure separates concerns and maintains a clear separation between the frontend (HTML, CSS, JavaScript) and backend (Python/Flask) components of the application.
 
 ## Getting Started
 

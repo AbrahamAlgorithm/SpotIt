@@ -56,7 +56,7 @@ This structure separates concerns and maintains a clear separation between the f
 
 To run the SpotIt application locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/your-username/spotit.git`
+1. Clone the repository: `git clone https://github.com/AbrahamAlgorithm/spotit.git`
 2. Navigate to the project directory: `cd spotit`
 3. Create a virtual environment and activate it: `python -m venv env` and `source env/bin/activate` (on Windows, use `env\Scripts\activate`)
 4. Install the required dependencies: `pip install -r requirements.txt`
